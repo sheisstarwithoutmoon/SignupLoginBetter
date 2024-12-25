@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218503853018",
+    "project_id": "vanya-daytwo-flutter",
+    "storage_bucket": "vanya-daytwo-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218503853018:android:3ec561989bac51371c06e3",
+        "android_client_info": {
+          "package_name": "com.example.daytwo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3jJQ1s68MjcZo1fNcz8nkhpvuLWIe8zU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
