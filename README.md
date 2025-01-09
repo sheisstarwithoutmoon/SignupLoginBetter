@@ -1,16 +1,10 @@
-# daytwo
+# SignupLoginBetter  
 
-A new Flutter project.
+SignupLoginBetter is a cross-platform Flutter application designed for efficient and secure user authentication. The app features login, signup, and forgot password functionalities, providing a seamless user experience.  
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features  
+- **User Authentication**: Secure signup, login, and forgot password workflows.  
+- **Cross-Platform Support**: Works on Android, iOS, Linux, macOS, Windows, and Web.  
+- **Modular Architecture**: Cleanly structured codebase with reusable components.  
+- **Custom Widgets**: Pre-built buttons, text fields, and snack bars for consistency.  
+- **Firebase Integration**: Backend authentication powered by Firebase.  
